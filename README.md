@@ -116,13 +116,13 @@ On-device plant disease classification using computer vision, running inference 
 </td>
 <td width="50%" valign="top">
 
-### 🏥 SIPMR Connect
-Backend platform built with FastAPI, PostgreSQL, and Redis, designed for fast, reliable data access with caching.
+### 📡 Laser-Based Free Space Optical Voice Communication
+Wireless voice communication system transmitting audio over a laser beam through free space — an exploration of optical communication fundamentals.
 
-**Stack:** `FastAPI` `PostgreSQL` `Redis` `REST API`
-**Highlight:** production-style architecture with a caching layer.
+**Stack:** `Embedded Systems` `Signal Processing` `Optics`
+**Highlight:** real-time analog voice signal carried over a free-space optical link.
 
-[`→ Repository`](https://github.com/FURYBALA/sipmr-connect)
+[`→ Repository`](https://github.com/FURYBALA/fso-voice-communication)
 
 </td>
 </tr>
@@ -151,17 +151,6 @@ ESP32-based real-time power consumption monitor for data-driven energy usage dec
 </td>
 </tr>
 </table>
-
-<details>
-<summary><b>📡 5th project — Laser-Based Free Space Optical Voice Communication</b></summary>
-<br>
-
-Wireless voice communication system transmitting audio over a laser beam through free space — an exploration of optical communication fundamentals.
-
-**Stack:** `Embedded Systems` `Signal Processing` `Optics`
-[`→ Repository`](https://github.com/FURYBALA/fso-voice-communication)
-
-</details>
 
 &nbsp;
 
