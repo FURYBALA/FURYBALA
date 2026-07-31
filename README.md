@@ -1,4 +1,6 @@
-<h1 align="center">Hi there, I'm Balanilavan 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=header&text=Hi%20👋%20I'm%20Balanilavan&fontSize=38&fontColor=ffffff&animation=fadeIn" alt="header banner" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Student+%7C+Learner+%7C+Aspiring+Developer;Curious+about+Web+Dev+%26+Software+Engineering;Always+building+and+learning+something+new!" alt="Typing SVG" />
@@ -25,8 +27,9 @@
 - 🎓 I'm a **student / learner**, currently sharpening my skills in software development
 - 💻 Interested in **web development** and building real-world projects
 - 🌱 Always exploring new languages, frameworks, and tools
+- 🎯 Currently focused on strengthening my **JavaScript/TypeScript** and **React + Node.js** fundamentals
 - 📫 Reach me at **balanilavan46@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/balanilavan-b-v/)
-- ⚡ Fun fact: this profile page updates itself with live GitHub stats below!
+- ⚡ Fun fact: this profile updates itself with live GitHub stats below!
 
 </details>
 
@@ -51,18 +54,50 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FURYBALA&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Balanilavan's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FURYBALA&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=FURYBALA&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=FURYBALA&show_icons=true&theme=default&hide_border=true&count_private=true" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=FURYBALA&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Balanilavan's GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=FURYBALA&layout=compact&theme=radical&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=FURYBALA&layout=compact&theme=default&hide_border=true" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FURYBALA&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FURYBALA&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=FURYBALA&theme=radical&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=FURYBALA&theme=default&hide_border=true" />
+    <img src="https://streak-stats.demolab.com/?user=FURYBALA&theme=radical&hide_border=true" alt="GitHub Streak" />
+  </picture>
 </p>
 
+### 🏆 Trophies
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FURYBALA&theme=radical&hide_border=true" alt="Contribution Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=FURYBALA&theme=radical&no-frame=true&row=1&column=7" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=FURYBALA&theme=flat&no-frame=true&row=1&column=7" />
+    <img src="https://github-profile-trophy.vercel.app/?username=FURYBALA&theme=radical&no-frame=true&row=1&column=7" alt="Trophies" />
+  </picture>
+</p>
+
+### 📈 Contribution Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=FURYBALA&theme=radical&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=FURYBALA&theme=minimal&hide_border=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=FURYBALA&theme=radical&hide_border=true" alt="Contribution Graph" />
+  </picture>
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" alt="footer banner" />
+</p>
 
 <p align="center"><i>Thanks for stopping by — feel free to connect!</i> ⭐</p>
