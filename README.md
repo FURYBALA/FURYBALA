@@ -16,9 +16,9 @@
 
 </div>
 
-&nbsp;
+---
 
-## About
+<h2 align="center">🎓 About</h2>
 
 - 🎓 B.Tech **Electronics & Communication Engineering**, specializing in **Data Science**
 - 🐍 Strong in **Python** — currently sharpening **Data Structures & Algorithms**
@@ -26,9 +26,9 @@
 - ⚙️ Build backend systems with **FastAPI, PostgreSQL, Redis & Docker**
 - 🔩 Also work at the hardware layer — **Embedded Systems & ESP32**
 
-&nbsp;
+---
 
-## Currently Working On
+<h2 align="center">🚦 Currently Working On</h2>
 
 <table>
 <tr>
@@ -51,9 +51,9 @@
 </tr>
 </table>
 
-&nbsp;
+---
 
-## Tech Stack
+<h2 align="center">🛠️ Tech Stack</h2>
 
 **Languages**
 <br>
@@ -97,9 +97,9 @@
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![Embedded C](https://img.shields.io/badge/Embedded%20C-00599C?style=flat-square&logo=c&logoColor=white)
 
-&nbsp;
+---
 
-## Featured Projects
+<h2 align="center">🚀 Featured Projects</h2>
 
 <table>
 <tr>
@@ -152,20 +152,20 @@ ESP32-based real-time power consumption monitor for data-driven energy usage dec
 </tr>
 </table>
 
-&nbsp;
+---
 
-## GitHub Stats
+<h2 align="center">📈 GitHub Stats</h2>
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="middle" align="center">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=FURYBALA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=FURYBALA&show_icons=true&theme=default&hide_border=true&count_private=true" />
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=FURYBALA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </picture>
 </td>
-<td width="50%">
+<td width="50%" valign="middle" align="center">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=FURYBALA&theme=tokyonight&hide_border=true" />
 <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=FURYBALA&theme=default&hide_border=true" />
@@ -174,14 +174,14 @@ ESP32-based real-time power consumption monitor for data-driven energy usage dec
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="middle" align="center">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=FURYBALA&layout=compact&theme=tokyonight&hide_border=true" />
 <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=FURYBALA&layout=compact&theme=default&hide_border=true" />
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FURYBALA&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </picture>
 </td>
-<td width="50%">
+<td width="50%" valign="middle" align="center">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=FURYBALA&theme=tokyo-night&hide_border=true" />
 <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=FURYBALA&theme=minimal&hide_border=true" />
@@ -232,9 +232,9 @@ ESP32-based real-time power consumption monitor for data-driven energy usage dec
 
 </details>
 
-&nbsp;
+---
 
-## Contact
+<h2 align="center">📫 Contact</h2>
 
 <div align="center">
 
@@ -247,7 +247,7 @@ ESP32-based real-time power consumption monitor for data-driven energy usage dec
 
 </div>
 
-&nbsp;
+---
 
 <div align="center">
 
