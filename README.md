@@ -95,29 +95,18 @@ Open to Internship and Full-Time roles in Data Science, ML, AI Engineering, and 
 
 ## Featured Projects
 
+**Smart Agriculture System with Plant Disease Detection** — *team project, SRM IST*
+Dual-node IoT + AI system: automated soil-moisture irrigation and tomato leaf disease diagnosis, unified in one Flutter app.
+- **Problem:** manual irrigation and disease inspection don't scale, and existing solutions rarely combine both
+- **Approach:** ESP32 irrigation node + ESP32-CAM running an on-device 8-class TensorFlow Lite model, both exposing REST APIs to a Flutter app with Gemini Vision cloud diagnosis, chatbot, and history tracking
+- **Team:** built with 2 teammates (Agnihotram Chinmayanand, Vedansh Parashar) under Dr. Rajalakshmi T — full credit in the repo
+- **Stack:** `ESP32` `ESP32-CAM` `TensorFlow` `TensorFlow Lite Micro` `Flutter` `Dart` `Gemini API` `AWS Lambda`
+
+[`GitHub →`](https://github.com/FURYBALA/smart-agriculture-system)
+
+<br>
+
 <table>
-<tr><td width="50%" valign="top">
-
-**AI Plant Disease Detection**
-On-device apple leaf disease classification for early crop intervention.
-- **Problem:** manual disease detection is slow and needs an expert on-site
-- **Approach:** custom CNN trained on PlantVillage, INT8-quantized to 12KB, running directly on an ESP32-CAM
-- **Result:** 82% accuracy on held-out images, 3-class (scab / black rot / healthy)
-- **Stack:** `Python` `TensorFlow` `TensorFlow Lite Micro` `ESP32-CAM`
-
-[`GitHub →`](https://github.com/FURYBALA/plant-disease-detection-tinyml)
-
-</td><td width="50%" valign="top">
-
-**IoT Smart Irrigation System**
-Sensor-driven irrigation automation to cut water waste.
-- **Problem:** fixed-schedule irrigation over- or under-waters crops
-- **Approach:** soil/environmental sensors trigger watering in a closed automation loop
-- **Stack:** `ESP32` `Embedded C` `Sensors`
-
-[`GitHub →`](https://github.com/FURYBALA/smart-irrigation-iot)
-
-</td></tr>
 <tr><td width="50%" valign="top">
 
 **Smart Energy Meter**
