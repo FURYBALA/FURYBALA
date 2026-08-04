@@ -99,10 +99,11 @@ Open to Internship and Full-Time roles in Data Science, ML, AI Engineering, and 
 <tr><td width="50%" valign="top">
 
 **AI Plant Disease Detection**
-On-device plant disease classification for early crop intervention.
+On-device apple leaf disease classification for early crop intervention.
 - **Problem:** manual disease detection is slow and needs an expert on-site
-- **Approach:** vision model quantized and deployed directly to an ESP32-CAM
-- **Stack:** `Python` `TensorFlow Lite` `OpenCV` `ESP32-CAM`
+- **Approach:** custom CNN trained on PlantVillage, INT8-quantized to 12KB, running directly on an ESP32-CAM
+- **Result:** 82% accuracy on held-out images, 3-class (scab / black rot / healthy)
+- **Stack:** `Python` `TensorFlow` `TensorFlow Lite Micro` `ESP32-CAM`
 
 [`GitHub →`](https://github.com/FURYBALA/plant-disease-detection-tinyml)
 
